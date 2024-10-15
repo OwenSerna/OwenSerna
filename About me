@@ -1,1 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        ul, ol {
+            padding: 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<h1>About Me</h1>
+
+<p>👋 Hi there! I'm <strong>Owen Serna</strong>, a male, 18 years old (born on October 25, 2005), about to turn 19. I'm a family man who loves spending time with my loved ones.</p>
+<p>💼 I work with a company in the ECISD school district as a technology intern.</p>
+<p>🎬 I love going to the movies!</p>
+<p>❤️ I have a beautiful girlfriend.</p>
+
+<h2>🚀 Interests</h2>
+
+<h3>🎥 Favorite Anime</h3>
+<ul>
+    <li>🌟 Dragon Ball Z</li>
+    <li>🌟 Naruto</li>
+    <li>🌟 One Piece</li>
+    <li>🌟 Black Clover</li>
+</ul>
+
+<h3>🎮 Favorite Games</h3>
+<ul>
+    <li>🌟 Minecraft</li>
+    <li>🌟 Rainbow Six Siege</li>
+    <li>🌟 Call of Duty</li>
+    <li>🌟 Fortnite</li>
+    <li>🌟 Valorant</li>
+</ul>
+
+<h3>🏋️ Favorite Fitness Activities</h3>
+<ul>
+    <li>🏀 Basketball</li>
+    <li>🏋️ Gym</li>
+    <li>⚽ Soccer</li>
+    <li>🏆 Any type of sport</li>
+</ul>
+
+<h3>🎵 Favorite Artists</h3>
+<ul>
+    <li>🌟 Eminem</li>
+    <li>🌟 J. Cole</li>
+    <li>🌟 Kendrick Lamar</li>
+    <li>🌟 NF</li>
+</ul>
+
+<h3>🍕 Favorite Snacks</h3>
+<ol>
+    <li>🌟 Takis</li>
+    <li>🌟 Ice Cream</li>
+    <li>🌟 Oreos</li>
+    <li>🌟 Coke</li>
+    <li>🌟 Popcorn</li>
+</ol>
+
+<h2>This is my greatest accomplishment</h2>
+<p>✨ [https://youtu.be/dQw4w9WgXcQ?feature=shared]</p>
+
+<h2>🕒 Why I'm Late to Class</h2>
+<table>
+    <tr>
+        <th>Reason</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>Work</td>
+        <td>[As soon as i get out of work the drive is delaying me and parking gets very hard to find then the walk to class makes me even later]</td>
+    </tr>
+</table>
+
+<h2>🌐 Connect with me</h2>
+<ul>
+    <li><a href="[https://owenserna.github.io/OwenSerna/]" target="_blank">Personal Website/Blog</a></li>
+</ul>
+
+</body>
+</html>
 
